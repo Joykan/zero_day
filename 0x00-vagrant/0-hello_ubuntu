@@ -1,2 +1,2 @@
 #!/bin/bash
-cat >0-hello_ubuntu
+uname 0-hello_ubuntu
